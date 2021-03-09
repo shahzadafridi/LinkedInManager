@@ -1,0 +1,4 @@
+#Tue Mar 09 12:52:39 PKT 2021
+base.0=/Users/shahzadafridi/Documents/Development/Android Projects/Practice/LinkedInManager/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

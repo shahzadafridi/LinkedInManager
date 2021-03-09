@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LinkedInManager.iml" filepath="$PROJECT_DIR$/.idea/modules/LinkedInManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LinkedInManager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LinkedInManager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkedinmanager/LinkedInManager.linkedinmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/linkedinmanager/LinkedInManager.linkedinmanager.iml" />
+    </modules>
+  </component>
+</project>

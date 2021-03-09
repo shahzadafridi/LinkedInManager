@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_baseline_cancel_24
+id cancel_auth_dialog
+id linkedInWebView
+id prog_auth_dialog
+layout linkedin_popup_layout
+string app_name

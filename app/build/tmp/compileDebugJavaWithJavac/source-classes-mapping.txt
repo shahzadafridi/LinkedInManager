@@ -1,0 +1,2 @@
+com/realtimecoding/linkedinlibrary/BuildConfig.java
+ com.realtimecoding.linkedinlibrary.BuildConfig

@@ -44,7 +44,7 @@ allprojects {
 ### Step : 2- Add the dependency
 ```
 dependencies {
-        implementation 'com.github.Sumudu-Sahan:LinkedInManager:1.01.00'
+	implementation 'com.github.shahzadafridi:LinkedInManager:1.0'
 }
 ```
 

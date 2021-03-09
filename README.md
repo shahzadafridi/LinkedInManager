@@ -1,4 +1,4 @@
-# LinkedInManager
+# LinkedInManager  [![](https://jitpack.io/v/shahzadafridi/LinkedInManager.svg)](https://jitpack.io/#shahzadafridi/LinkedInManager)
 Android Library to Authenticate with LinkedIn
 
 ## What is LinkedInManager
